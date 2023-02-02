@@ -5,7 +5,7 @@ A collection of rules I follow when styling my code. This is a work in progress.
 # Interpretation
 
 Rules and motivations are written in priority order. Ideally everything will be satisfied. However,
-there will come times when you need to violate some to satisfy others. When that happens, satsify
+there will come times when you need to violate some to satisfy others. When that happens, satisfy
 the ones higher up the list.
 
 # Glossary
