@@ -37,7 +37,7 @@ These are the outcomes that the rules are helping achieve.
 ###### Do what most maintainers agree upon weighted by expected contribution.
 
 Maintainers who are expected to contribute more get proportionally more say. Only expected
-maintenance if taken into account, not past maintenance. If a project has one maintainer that wrote
+maintenance is taken into account, not past maintenance. If a project has one maintainer that wrote
 99% of the code and then decides to stop maintaining the code, their expected contribution is zero.
 
 ###### Do what the community is already doing.
